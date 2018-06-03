@@ -3,7 +3,6 @@
 
     <string name="app_name">Android-Rate Sample</string>
     <string name="hello_world">Hello world!</string>
-
     <string name="new_rate_dialog_title">Rate Our Ukulele Tuner</string>
     <string name="new_rate_dialog_never">Never</string>
     <string name="new_rate_dialog_later">Later</string>
